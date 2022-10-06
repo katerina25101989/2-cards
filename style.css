@@ -1,0 +1,35 @@
+body{
+	background: #F6F6F6;
+	font-family: system-ui;
+}
+
+#block1{
+	float: left;
+	
+	display: block;
+	font-size: 48px;
+	alignment-baseline: central;
+	background: #E0E0E0;
+	
+	width: auto;
+	padding-left: 4px;
+	margin: 2px;
+}
+#block2{
+	float: left;
+	display: block;
+	color:#950000;
+	
+	font-size: 48px;
+	alignment-baseline: central;
+	background: #E0E0E0;
+	
+	width: auto;
+	padding-left: 4px;
+	margin: 2px;
+}
+#h2{
+padding-bottom: 18px;
+
+font-size: 24px;
+}
